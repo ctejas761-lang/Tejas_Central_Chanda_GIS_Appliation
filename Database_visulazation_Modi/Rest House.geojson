@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Rest House",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32644" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Name": "Untitled Placemark", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 329025.754978274926543, 2188481.376375120598823, 0.0 ] } },
+{ "type": "Feature", "properties": { "id": null, "Name": "Untitled Placemark", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Point", "coordinates": [ 356639.071046023222152, 2196318.994417833164334, 0.0 ] } }
+]
+}

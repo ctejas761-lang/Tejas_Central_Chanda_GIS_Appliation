@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Range office Headquarters",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32644" } },
+"features": [
+{ "type": "Feature", "properties": { "Sr.No": 1, "Lat": 19.8486895, "Long": 79.3504248, "Attribute": "Ballarsha Range Office" }, "geometry": { "type": "Point", "coordinates": [ 327263.046166417188942, 2195581.884281819686294 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 2, "Lat": 19.784539, "Long": 79.367505, "Attribute": "Rajura Range Office" }, "geometry": { "type": "Point", "coordinates": [ 328983.384818584076129, 2188463.498915531672537 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 3, "Lat": 19.638782, "Long": 79.431193, "Attribute": "Wirur Range Office" }, "geometry": { "type": "Point", "coordinates": [ 335507.485945269581862, 2172266.727692033629864 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 4, "Lat": 19.862777, "Long": 79.632851, "Attribute": "Pombhurna Range Office" }, "geometry": { "type": "Point", "coordinates": [ 356855.03170849068556, 2196876.664020291529596 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 5, "Lat": 19.790723, "Long": 79.491652, "Attribute": "Kothari Range Office" }, "geometry": { "type": "Point", "coordinates": [ 341997.283488239569124, 2189027.277283965144306 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 6, "Lat": 19.612173, "Long": 79.068094, "Attribute": "Jiwati Range Office" }, "geometry": { "type": "Point", "coordinates": [ 297392.27520375297172, 2169712.119104478973895 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 7, "Lat": 19.7454645, "Long": 79.0528115, "Attribute": "Wansadi Range Office" }, "geometry": { "type": "Point", "coordinates": [ 295957.990583023056388, 2184486.4830267066136 ] } },
+{ "type": "Feature", "properties": { "Sr.No": 8, "Lat": 19.625017, "Long": 79.635832, "Attribute": "Dhaba Range Office" }, "geometry": { "type": "Point", "coordinates": [ 356955.497422963671852, 2170558.572285589296371 ] } }
+]
+}
